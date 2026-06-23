@@ -39,7 +39,7 @@ export default function Contact() {
               <Mail className="w-5 h-5 text-blue-400" />
             </div>
             <div className="text-xs uppercase tracking-widest text-slate-400 font-medium mb-2">Official Workshop Email</div>
-            <a href="mailto:aiworkshop@gmail.com" className="text-white font-semibold hover:text-cyan-400 transition-colors text-sm sm:text-base break-all">
+            <a href="mailto:aidsworkshop123@gmail.com" className="text-white font-semibold hover:text-cyan-400 transition-colors text-sm sm:text-base break-all">
               aiworkshop@gmail.com
             </a>
           </div>

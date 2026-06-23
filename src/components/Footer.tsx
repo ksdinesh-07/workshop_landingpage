@@ -83,7 +83,7 @@ export default function Footer() {
               </div>
               <div className="text-slate-400">
                 <div className="text-slate-500 text-xs uppercase tracking-wider mb-1">Registration Fee</div>
-                <span className="text-emerald-400 font-semibold">FREE</span>
+                <span className="text-emerald-400 font-semibold"></span>
               </div>
               <div className="text-slate-400">
                 <div className="text-slate-500 text-xs uppercase tracking-wider mb-1">Deadline</div>
@@ -106,8 +106,8 @@ export default function Footer() {
             <div className="space-y-4">
               <div className="flex items-start gap-3">
                 <Mail className="w-4 h-4 text-cyan-400 flex-shrink-0 mt-0.5" />
-                <a href="mailto:aiworkshop@gmail.com" className="text-slate-400 text-sm hover:text-cyan-400 transition-colors break-all">
-                  aiworkshop@gmail.com
+                <a href="mailto:aidsworkshop123@gmail.com" className="text-slate-400 text-sm hover:text-cyan-400 transition-colors break-all">
+                  aidsworkshop123@gmail.com
                 </a>
               </div>
               <div className="flex items-start gap-3">
