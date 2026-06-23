@@ -101,7 +101,7 @@ export default function Registration() {
             Register for the Workshop
           </h2>
           <p className="text-slate-400 mt-3 text-sm">
-            Free for all participants. Students, Faculty, and PhD Scholars from AICTE-approved institutions.
+
           </p>
           <div className="section-divider max-w-xs mx-auto mt-4" />
         </div>
@@ -253,7 +253,6 @@ export default function Registration() {
 
               <p className="text-center text-slate-500 text-xs">
                 By registering, you agree to receive workshop-related communications.
-                Registration is free for all eligible participants.
               </p>
             </form>
           )}

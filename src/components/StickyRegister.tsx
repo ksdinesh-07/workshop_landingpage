@@ -21,7 +21,7 @@ export default function StickyRegister() {
         className="flex items-center gap-2.5 px-7 py-3.5 rounded-full bg-gradient-to-r from-blue-600 to-cyan-500 text-white font-bold text-sm shadow-2xl shadow-blue-600/50 hover:scale-105 active:scale-95 transition-transform"
       >
         <UserPlus className="w-4 h-4" />
-        Register Now — Free
+        Register Now 
       </a>
     </div>
   );
