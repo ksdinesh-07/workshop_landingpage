@@ -140,7 +140,7 @@ export default function About() {
             </ul>
             <div className="mt-8 pt-6 border-t border-white/10">
               <div className="glass rounded-xl p-4 text-center">
-                <div className="text-emerald-400 font-bold text-lg">FREE</div>
+                <div className="text-emerald-400 font-bold text-lg"></div>
                 <div className="text-slate-400 text-xs mt-1">Registration Fee</div>
                 <div className="text-amber-300 text-xs mt-1 font-medium">Deadline: 04 July 2026</div>
               </div>
