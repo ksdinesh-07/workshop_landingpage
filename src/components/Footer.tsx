@@ -90,7 +90,7 @@ export default function Footer() {
                 <span className="text-amber-400">04 July 2026</span>
               </div>
               <a
-                href="/downloads/1.Brochure_Design.pdf"
+                 href="/1.Brochure%20Design.pdf"
                 download="AI_Antenna_Workshop_Brochure.pdf"
                 className="inline-flex items-center gap-2 text-blue-400 hover:text-blue-300 transition-colors font-medium text-sm mt-1"
               >
