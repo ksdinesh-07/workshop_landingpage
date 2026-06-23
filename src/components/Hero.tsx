@@ -260,7 +260,7 @@ export default function Hero() {
             <div className="absolute inset-0 rounded-full bg-white/10 opacity-0 group-hover:opacity-100 transition-opacity" />
           </a>
           <a
-            href="/public/1.Brochure%20Design.pdf"
+            href="/1.Brochure%20Design.pdf"
             download="AI_Antenna_Workshop_Brochure.pdf"
             className="group inline-flex items-center gap-3 px-8 py-4 rounded-full glass border border-white/20 text-white font-bold text-base sm:text-lg hover:bg-white/10 hover:border-cyan-400/50 hover:shadow-lg hover:shadow-cyan-500/20 hover:scale-105 transition-all duration-300"
           >
