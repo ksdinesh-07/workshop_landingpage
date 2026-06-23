@@ -29,7 +29,7 @@ export default function Footer() {
             {/* Social icons */}
             <div className="flex gap-3">
               {[
-                { label: 'Email', href: 'mailto:aiworkshop@gmail.com', icon: '📧' },
+                { label: 'Email', href: 'mailto:aidsworkshop123@gmail.com', icon: '📧' },
                 { label: 'Phone', href: 'tel:+918807677959', icon: '📞' },
                 { label: 'Website', href: 'http://www.erode-sengunthar.ac.in', icon: '🌐' },
               ].map(({ label, href, icon }) => (

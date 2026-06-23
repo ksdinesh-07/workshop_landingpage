@@ -8,7 +8,7 @@ const faqs = [
   },
   {
     q: 'Is there any registration fee?',
-    a: 'No, there is absolutely no registration fee for any participant. The workshop is completely free for all eligible participants and is sponsored by MeitY (Ministry of Electronics and Information Technology).',
+    a: 'There is Registration fee of rupees 200.',
   },
   {
     q: 'Will certificates be provided?',

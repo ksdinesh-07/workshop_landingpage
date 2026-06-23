@@ -260,7 +260,7 @@ export default function Hero() {
             <div className="absolute inset-0 rounded-full bg-white/10 opacity-0 group-hover:opacity-100 transition-opacity" />
           </a>
           <a
-            href="/downloads/1.Brochure_Design.pdf"
+            href="/public/1.Brochure%20Design.pdf"
             download="AI_Antenna_Workshop_Brochure.pdf"
             className="group inline-flex items-center gap-3 px-8 py-4 rounded-full glass border border-white/20 text-white font-bold text-base sm:text-lg hover:bg-white/10 hover:border-cyan-400/50 hover:shadow-lg hover:shadow-cyan-500/20 hover:scale-105 transition-all duration-300"
           >
@@ -285,7 +285,7 @@ export default function Hero() {
           <div className="inline-flex items-center gap-2 bg-amber-500/10 border border-amber-500/30 rounded-full px-4 py-2">
             <div className="w-2 h-2 rounded-full bg-amber-400 animate-pulse" />
             <span className="text-amber-300 text-xs sm:text-sm font-medium">
-              Last date for Registration: 04 July 2026 | No Registration Fee
+              Last date for Registration: 04 July 2026 
             </span>
           </div>
         </div>
